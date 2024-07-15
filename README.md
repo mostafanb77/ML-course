@@ -45,13 +45,15 @@ This project focuses on reinforcement learning in a grid-based environment, impl
 An off-policy algorithm to learn the optimal policy directly using an epsilon-greedy policy for exploration and exploitation balance.
 #### Deep Q-Network (DQN): 
 A neural network that approximates Q-values using replay memory for training stability.
-#### Environment Details
+#### Environment Details:
 ##### GridEnvironment class: 
 Includes grid layout, agent starting position, goal, pits, Wumpus, and actions.
 ##### Rewards: +100 for finding gold, -1000 for falling into pits or encountering Wumpus, +50 for shooting Wumpus, -1 for movement.
-#### Comparison of Q-Learning and DQN
-##### Cumulative Rewards: Plot to visualize performance over episodes.
-##### Average Reward per Episode: Comparison after 1000 episodes to evaluate algorithm effectiveness.
+#### Comparison of Q-Learning and DQN:
+##### Cumulative Rewards: 
+Plot to visualize performance over episodes.
+##### Average Reward per Episode:
+Comparison after 1000 episodes to evaluate algorithm effectiveness.
 
 
 
