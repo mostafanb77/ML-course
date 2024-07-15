@@ -21,7 +21,9 @@ An extension of the LS method that updates the model parameters recursively as n
 
 ### Weighted Least Squares (WLS)
 A variation of the LS method that accounts for heteroscedasticity in the data by assigning different weights to different observations, thus improving the model fit in such scenarios.
-
+## Google Drive
+Here's the google drive link :
+https://drive.google.com/drive/folders/15pi8D_WDpbI0eHCEs9wxz255d6VomYfq?usp=sharing
 ## Contact
 For any questions or comments, please contact us at:
 
