@@ -1,7 +1,7 @@
 # ML-course
 
 This repository contains four mini projects completed for the classes taught by Dr. Aliyari at KNTU. Each project focuses on different aspects of machine learning and reinforcement learning, ranging from binary classification and least squares methods to neural networks, support vector machines, and reinforcement learning.
-## Project Overview
+## Projects Overview
 ### MP1: Binary Classification and Least Squares Methods
 This project addresses three main questions:
 
