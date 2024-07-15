@@ -54,9 +54,6 @@ Includes grid layout, agent starting position, goal, pits, Wumpus, and actions.
 ##### Average Reward per Episode: Comparison after 1000 episodes to evaluate algorithm effectiveness.
 
 
-## Google Drive
-Here's the google drive link :
-https://drive.google.com/drive/folders/1agwPAwdYvPxLN8z1QAY6XFcHkL_AhZE_?usp=sharing
 
 ## Contact
 For any questions or comments, please contact us at:
